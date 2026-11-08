@@ -1,0 +1,4 @@
+Layout,Trial,Optimal Probability (%),Most Frequent Route,Optimal Selection,Route Shots,Invalid Shots
+1,1,99.8046875,0,True,"[1022, 1, 1]",0
+2,1,82.12890625,0,True,"[434, 407, 183]",0
+3,1,78.41796875,1,True,"[400, 403, 221]",0

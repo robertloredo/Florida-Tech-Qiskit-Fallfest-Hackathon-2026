@@ -1,0 +1,4 @@
+Layout,Candidate Routes,QAOA Runs,Average Optimal Probability (%),Standard Deviation (%),Optimal Selection Accuracy (%),Classical A* Time (seconds),Total QAOA Time (seconds)
+1,3,1,99.8046875,0.0,100.0,0.0007845000363886356,1.0930587000912055
+2,3,1,82.12890625,0.0,100.0,0.0013212000485509634,1.0972160000819713
+3,3,1,78.41796875,0.0,100.0,0.0012762000551447272,1.2174210000084713
